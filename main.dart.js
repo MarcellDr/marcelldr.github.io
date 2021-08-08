@@ -62443,30 +62443,34 @@ if(r.d==null)r.d=s
 else H.d(H.fa("_controller"))},
 p:function(a){this.guN().p(0)
 this.PT(0)},
-K:function(a3,a4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=null,d="Calibre",c=4287140528,b="(Advanced)",a="(Moderate)",a0=t.w,a1=a4.a2(a0).f.a.b,a2=a4.a2(a0).f.a.a
-a0=a2<600
-s=a0?a2*0.5:e
-s=T.fe(e,T.ai(U.iP("assets/images/rectangle_corner.png",e),e,s),e,e,e,0,0,e)
-r=a2*0.1
-q=a1*0.1
-p=a1*0.05
-o=T.ai(e,p,e)
-n=T.ai(e,36,e)
-m=A.a4(e,e,new P.p(c),e,e,e,e,e,d,e,e,21,e,e,e,e,!0,e,e,e,e,e,e,e)
-m=T.dP(e,e,C.a1,!0,e,Q.aM(H.a([Q.aM(e,A.a4(e,e,e,e,e,e,e,e,e,e,e,e,e,C.u,e,e,!0,e,e,e,e,e,e,e),"Software Developer "),Q.aM(e,e,"based on Semarang, Indonesia. "),Q.aM(e,e," I'm a passionate "),Q.aM(e,A.a4(e,e,e,e,e,e,e,e,e,e,e,e,e,C.u,e,e,!0,e,e,e,e,e,e,e),"resourceful "),Q.aM(e,e,"developer who love to design, create, and build things. "),Q.aM(e,e,"I'm always pushing myself to become a "),Q.aM(e,A.a4(e,e,e,e,e,e,e,e,e,e,e,e,e,C.u,e,e,!0,e,e,e,e,e,e,e),"Jack of All Trades. "),Q.aM(e,e,"I love to learn new technologies, after i finished my study as Android Developer at "),Q.aM(e,A.a4(e,e,e,e,e,e,e,e,e,e,e,e,e,C.u,e,e,!0,e,e,e,e,e,e,e),"Bangkit 2021, "),Q.aM(e,e,"i continue my study as Cloud Azure Developer at "),Q.aM(e,A.a4(e,e,e,e,e,e,e,e,e,e,e,e,e,C.u,e,e,!0,e,e,e,e,e,e,e),"Digital Talent Scholarship 2021.")],t.b),m,"Hello! My name is Marcel, a "),C.D,e,e,1,C.K)
-l=T.ai(e,12,e)
-k=L.b0("Here are a few technologies I've been working recently: ",e,e,A.a4(e,e,new P.p(c),e,e,e,e,e,d,e,e,21,e,e,e,e,!0,e,e,e,e,e,e,e),e,e)
-j=T.ai(e,6,e)
+K:function(a4,a5){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=null,c="Calibre",b=4287140528,a="(Advanced)",a0="(Moderate)",a1=t.w,a2=a5.a2(a1).f.a.b,a3=a5.a2(a1).f.a.a
+a1=a3<600
+s=a1?a3*0.5:d
+s=T.fe(d,T.ai(U.iP("assets/images/rectangle_corner.png",d),d,s),d,d,d,0,0,d)
+r=a3*0.1
+q=a2*0.1
+p=a2*0.05
+o=T.ai(d,p,d)
+n=T.ai(d,36,d)
+m=A.a4(d,d,new P.p(b),d,d,d,d,d,c,d,d,21,d,d,d,d,!0,d,d,d,d,d,d,d)
+m=T.dP(d,d,C.a1,!0,d,Q.aM(H.a([Q.aM(d,A.a4(d,d,d,d,d,d,d,d,d,d,d,d,d,C.u,d,d,!0,d,d,d,d,d,d,d),"Software Developer "),Q.aM(d,d,"based on Semarang, Indonesia. "),Q.aM(d,d," I'm a passionate "),Q.aM(d,A.a4(d,d,d,d,d,d,d,d,d,d,d,d,d,C.u,d,d,!0,d,d,d,d,d,d,d),"resourceful "),Q.aM(d,d,"developer who love to design, create, and build things. "),Q.aM(d,d,"I'm always pushing myself to become a "),Q.aM(d,A.a4(d,d,d,d,d,d,d,d,d,d,d,d,d,C.u,d,d,!0,d,d,d,d,d,d,d),"Jack of All Trades. "),Q.aM(d,d,"I love to learn new technologies, after i finished my study as Android Developer at "),Q.aM(d,A.a4(d,d,d,d,d,d,d,d,d,d,d,d,d,C.u,d,d,!0,d,d,d,d,d,d,d),"Bangkit 2021, "),Q.aM(d,d,"i continue my study as Cloud Azure Developer at "),Q.aM(d,A.a4(d,d,d,d,d,d,d,d,d,d,d,d,d,C.u,d,d,!0,d,d,d,d,d,d,d),"Digital Talent Scholarship 2021.")],t.b),m,"Hello! My name is Marcel, a "),C.D,d,d,1,C.K)
+l=T.ai(d,12,d)
+k=L.b0("Here are a few technologies I've been working recently: ",d,d,A.a4(d,d,new P.p(b),d,d,d,d,d,c,d,d,21,d,d,d,d,!0,d,d,d,d,d,d,d),d,d)
+j=T.ai(d,6,d)
 i=P.b1([0,new S.oo(0.2),1,new S.oo(0.05),2,new S.oo(0.75)],t.S,t.PA)
-h=a0?16:21
-h=L.b0("Programming",e,e,A.a4(e,e,new P.p(c),e,e,e,e,e,d,e,e,h,e,C.u,e,e,!0,e,e,e,e,e,e,e),e,e)
-g=a0?16:21
+h=a1?16:21
+h=L.b0("Programming",d,d,A.a4(d,d,new P.p(b),d,d,d,d,d,c,d,d,h,d,C.u,d,d,!0,d,d,d,d,d,d,d),d,d)
+g=a1?16:21
 f=t.p
-g=H.a([h,L.b0(":",e,e,A.a4(e,e,new P.p(c),e,e,e,e,e,d,e,e,g,e,C.u,e,e,!0,e,e,e,e,e,e,e),e,e),T.acl(C.co,H.a([new N.fj("Flutter",b,e),new N.fj("Kotlin",b,e),new N.fj("Firebase",a,e),new N.fj("MySQL",a,e),new N.fj("Javascript",a,e),new N.fj("Python",a,e)],f),0,0)],f)
-h=a0?16:21
-h=L.b0("Other",e,e,A.a4(e,e,new P.p(c),e,e,e,e,e,d,e,e,h,e,C.u,e,e,!0,e,e,e,e,e,e,e),e,e)
-a0=a0?16:21
-return M.bQ(e,T.dR(C.ai,H.a([s,E.a07(new T.aW(new V.aH(r,q,r,q),T.cZ(H.a([o,new X.n8("01.","About Me",e),n,F.ahq(H.a([F.vO(T.cf(H.a([T.cm(M.bQ(e,T.cZ(H.a([m,l,k,j,S.atP(H.a([new S.hf(g),new S.hf(H.a([h,L.b0(":",e,e,A.a4(e,e,new P.p(c),e,e,e,e,e,d,e,e,a0,e,C.u,e,e,!0,e,e,e,e,e,e,e),e,e),T.acl(C.co,H.a([new N.fj("Photoshop",a,e),new N.fj("Illustrator",a,e),new N.fj("Azure","(Basic)",e)],f),0,0)],f))],t.nk),i)],f),C.a4,C.t,C.q),C.k,e,e,e,e,e,e,e,C.o0,e,e,e),1)],f),C.A,C.t,C.q),7,12),F.vO(T.cZ(H.a([T.ai(e,16,e),T.dR(C.ai,H.a([new T.aW(C.o3,T.ai(U.iP("assets/images/me.png",e),e,360),e),T.fe(0,T.ai(X.VW("assets/animations/alien_badge.json",this.guN(),new U.a2P(this)),e,240),e,e,e,0,e,e)],f),C.a5)],f),C.A,C.t,C.q),5,12)],t.SE)),T.ai(e,p,e)],f),C.a4,C.bF,C.q),e),e,C.al,e,C.m)],f),C.a5),C.k,new P.p(4278324251),e,e,e,e,e,e,e,e,e,e)}}
+g=H.a([h,L.b0(":",d,d,A.a4(d,d,new P.p(b),d,d,d,d,d,c,d,d,g,d,C.u,d,d,!0,d,d,d,d,d,d,d),d,d),T.acl(C.co,H.a([new N.fj("Flutter",a,d),new N.fj("Kotlin",a,d),new N.fj("Firebase",a0,d),new N.fj("MySQL",a0,d),new N.fj("Javascript",a0,d),new N.fj("Python",a0,d)],f),0,0)],f)
+h=a1?16:21
+h=L.b0("Other",d,d,A.a4(d,d,new P.p(b),d,d,d,d,d,c,d,d,h,d,C.u,d,d,!0,d,d,d,d,d,d,d),d,d)
+e=a1?16:21
+i=F.vO(T.cf(H.a([T.cm(M.bQ(d,T.cZ(H.a([m,l,k,j,S.atP(H.a([new S.hf(g),new S.hf(H.a([h,L.b0(":",d,d,A.a4(d,d,new P.p(b),d,d,d,d,d,c,d,d,e,d,C.u,d,d,!0,d,d,d,d,d,d,d),d,d),T.acl(C.co,H.a([new N.fj("Photoshop",a0,d),new N.fj("Illustrator",a0,d),new N.fj("Azure","(Basic)",d)],f),0,0)],f))],t.nk),i)],f),C.a4,C.t,C.q),C.k,d,d,d,d,d,d,d,C.o0,d,d,d),1)],f),C.A,C.t,C.q),7,12)
+e=T.ai(d,16,d)
+h=H.a([new T.aW(C.o3,T.ai(U.iP("assets/images/me.png",d),d,360),d)],f)
+if(a2>a3&&a1)h.push(T.fe(0,T.ai(X.VW("assets/animations/alien_badge.json",this.guN(),new U.a2P(this)),d,240),d,d,d,0,d,d))
+return M.bQ(d,T.dR(C.ai,H.a([s,E.a07(new T.aW(new V.aH(r,q,r,q),T.cZ(H.a([o,new X.n8("01.","About Me",d),n,F.ahq(H.a([i,F.vO(T.cZ(H.a([e,T.dR(C.ai,h,C.a5)],f),C.A,C.t,C.q),5,12)],t.SE)),T.ai(d,p,d)],f),C.a4,C.bF,C.q),d),d,C.al,d,C.m)],f),C.a5),C.k,new P.p(4278324251),d,d,d,d,d,d,d,d,d,d)}}
 U.a2P.prototype={
 $1:function(a){var s=this.a.guN(),r=a.d
 s.e=P.bN(0,C.c.J((r.c-r.b)/r.d*1000))
@@ -62552,18 +62556,19 @@ else H.d(H.fa("_controller"))},
 p:function(a){this.gvE().p(0)
 this.PX(0)},
 K:function(a,b){var s,r,q,p,o,n,m,l=null,k=t.w,j=b.a2(k).f.a.b,i=b.a2(k).f.a.a
-k=j>i
-s=k?-(j*0.1):0
-r=k?-(i*0.15):-(i*0.04)
-q=k?i*0.55:i*0.3
-r=T.fe(s,T.ai(X.VW("assets/animations/space_astronout_2.json",this.gvE(),new A.a4C(this)),l,q),l,l,l,r,l,l)
-q=i*0.1
-s=j*0.1
-p=T.ai(l,36,l)
-o=k?j:j*0.65
-n=k?i:i*0.6
-m=t.p
-return M.bQ(l,T.dR(C.ai,H.a([r,E.a07(new T.aW(new V.aH(q,s,q,s),T.cZ(H.a([new X.n8("02.","Experience",l),p,T.ai(new U.te(3,0,k?new U.Dp(l):new U.Do(l),l),o,n)],m),C.A,C.bF,C.q),l),l,C.al,l,C.m)],m),C.a5),C.k,new P.p(4278324251),l,l,l,l,l,l,l,l,l,l)}}
+k=t.p
+s=H.a([],k)
+r=j>i
+if(r&&i<600){q=r?-(j*0.1):0
+p=r?-(i*0.15):-(i*0.04)
+o=r?i*0.55:i*0.3
+s.push(T.fe(q,T.ai(X.VW("assets/animations/space_astronout_2.json",this.gvE(),new A.a4C(this)),l,o),l,l,l,p,l,l))}q=i*0.1
+p=j*0.1
+o=T.ai(l,36,l)
+n=r?j:j*0.65
+m=r?i:i*0.6
+s.push(E.a07(new T.aW(new V.aH(q,p,q,p),T.cZ(H.a([new X.n8("02.","Experience",l),o,T.ai(new U.te(3,0,r?new U.Dp(l):new U.Do(l),l),n,m)],k),C.A,C.bF,C.q),l),l,C.al,l,C.m))
+return M.bQ(l,T.dR(C.ai,s,C.a5),C.k,new P.p(4278324251),l,l,l,l,l,l,l,l,l,l)}}
 A.a4C.prototype={
 $1:function(a){var s=this.a.gvE(),r=a.d
 s.e=P.bN(0,C.c.J((r.c-r.b)/r.d*1000))
@@ -62647,17 +62652,18 @@ if(q!=null)for(q=P.ch(q,q.r),r=H.q(q).c;q.q();)r.a(q.d).sdI(0,s)
 this.co()}}
 T.F1.prototype={
 K:function(b0,b1){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b=null,a="assets/images/phone_template.png",a0="Calibre",a1=4291614454,a2=4284809178,a3="@PT. Jasa Raharja, Central Java Branch Office",a4="SFMono",a5=4279312960,a6=4287140528,a7=t.w,a8=b1.a2(a7).f.a.b,a9=b1.a2(a7).f.a.a
-a7=T.fe(-(a8*0.2),X.VW("assets/animations/planet.json",b,b),b,b,b,-(a9*0.2),b,b)
-s=a8*0.1
-r=a9*0.1
-q=T.ai(b,18,b)
-p=a9*0.5
-o=M.bQ(b,b,C.k,b,b,b,b,520,b,b,b,b,b,p)
-n=t.p
-m=T.dR(C.ac,H.a([M.bQ(b,F.agb(3000,H.a([U.iP("assets/images/sappira_1.jpg",C.by),U.iP("assets/images/sappira_2.jpg",C.by),U.iP("assets/images/sappira_3.jpg",C.by)],n),408,!0),C.k,b,b,b,b,b,b,b,new V.aH(0,0,0,24),b,b,200),T.ai(U.iP(a,b),520,b)],n),C.a5)
-l=a8>a9
-k=l?a9:a9*0.4
-j=l?C.p:b
+a7=t.p
+s=H.a([],a7)
+r=a8>a9
+if(r&&a9<600)s.push(T.fe(-(a8*0.2),X.VW("assets/animations/planet.json",b,b),b,b,b,-(a9*0.2),b,b))
+q=a8*0.1
+p=a9*0.1
+o=T.ai(b,18,b)
+n=a9*0.5
+m=M.bQ(b,b,C.k,b,b,b,b,520,b,b,b,b,b,n)
+l=T.dR(C.ac,H.a([M.bQ(b,F.agb(3000,H.a([U.iP("assets/images/sappira_1.jpg",C.by),U.iP("assets/images/sappira_2.jpg",C.by),U.iP("assets/images/sappira_3.jpg",C.by)],a7),408,!0),C.k,b,b,b,b,b,b,b,new V.aH(0,0,0,24),b,b,200),T.ai(U.iP(a,b),520,b)],a7),C.a5)
+k=r?a9:a9*0.4
+j=r?C.p:b
 i=a9<600
 if(i)h=12
 else h=a9<900?18:30
@@ -62667,18 +62673,18 @@ if(i)f=10
 else f=a9<900?12:24
 e=t.b
 j=M.bQ(b,T.dP(b,b,C.a1,!0,b,Q.aM(H.a([g,Q.aM(b,A.a4(b,b,new P.p(a2),b,b,b,b,b,b,b,b,f,b,C.x,b,b,!0,b,b,b,b,b,b,b),"Satpam, Supir, Juru Layan"),Q.aM(b,b,")")],e),h,"Sappira "),C.D,b,b,1,C.K),C.k,j,b,b,b,b,b,b,C.dx,b,b,b)
-h=l?C.p:b
+h=r?C.p:b
 h=M.bQ(b,L.b0(a3,b,b,A.a4(b,b,C.j,b,b,b,b,b,a4,b,b,i?10:12,b,C.x,b,b,!0,b,b,b,b,b,b,b),b,b),C.k,h,b,b,b,b,b,b,C.dx,b,b,b)
-g=T.ai(b,l?18:36,b)
-f=l?a9:a9*0.4
-k=T.dR(C.ai,H.a([o,m,T.ai(T.cZ(H.a([j,h,g,new T.fD(new S.aB(0,f,0,1/0),T.cf(H.a([T.cm(M.bQ(b,L.b0("An Application that was made for employees such as Security, Cleaning, and Driver to record their attendances and activities. Build in with Location Based Service and QR Code Reader",b,b,A.a4(b,b,new P.p(a6),b,b,b,b,b,a0,b,b,16,b,b,b,b,!0,b,b,b,b,b,b,b),C.cn,b),C.k,new P.p(a5),b,b,b,b,b,b,C.iB,b,b,b),1)],n),C.A,C.t,C.dY),b)],n),C.eS,C.bF,C.q),520,k)],n),C.a5)
-f=H.a([],n)
+g=T.ai(b,r?18:36,b)
+f=r?a9:a9*0.4
+k=T.dR(C.ai,H.a([m,l,T.ai(T.cZ(H.a([j,h,g,new T.fD(new S.aB(0,f,0,1/0),T.cf(H.a([T.cm(M.bQ(b,L.b0("An Application that was made for employees such as Security, Cleaning, and Driver to record their attendances and activities. Build in with Location Based Service and QR Code Reader",b,b,A.a4(b,b,new P.p(a6),b,b,b,b,b,a0,b,b,16,b,b,b,b,!0,b,b,b,b,b,b,b),C.cn,b),C.k,new P.p(a5),b,b,b,b,b,b,C.iB,b,b,b),1)],a7),C.A,C.t,C.dY),b)],a7),C.eS,C.bF,C.q),520,k)],a7),C.a5)
+f=H.a([],a7)
 if(a8<a9)f.push(T.ai(b,b,a9*0.05))
-o=M.bQ(b,b,C.k,b,b,b,b,520,b,b,b,b,b,p)
-m=l?b:p
-m=T.fe(b,T.ai(T.dR(C.ac,H.a([M.bQ(b,F.agb(3000,H.a([U.iP("assets/images/folks_1.jpg",C.by),U.iP("assets/images/folks_2.jpg",C.by),U.iP("assets/images/folks_3.jpg",C.by)],n),408,!0),C.k,b,b,b,b,b,b,b,new V.aH(0,0,0,24),b,b,200),T.ai(U.iP(a,b),520,b)],n),C.a5),b,m),b,b,b,0,0,b)
-j=l?a9:a9*0.4
-h=l?C.p:b
+m=M.bQ(b,b,C.k,b,b,b,b,520,b,b,b,b,b,n)
+l=r?b:n
+l=T.fe(b,T.ai(T.dR(C.ac,H.a([M.bQ(b,F.agb(3000,H.a([U.iP("assets/images/folks_1.jpg",C.by),U.iP("assets/images/folks_2.jpg",C.by),U.iP("assets/images/folks_3.jpg",C.by)],a7),408,!0),C.k,b,b,b,b,b,b,b,new V.aH(0,0,0,24),b,b,200),T.ai(U.iP(a,b),520,b)],a7),C.a5),b,l),b,b,b,0,0,b)
+j=r?a9:a9*0.4
+h=r?C.p:b
 if(i)g=12
 else g=a9<900?18:30
 g=A.a4(b,b,new P.p(a1),b,b,b,b,b,a0,b,b,g,b,C.u,b,b,!0,b,b,b,b,b,b,b)
@@ -62686,21 +62692,21 @@ d=Q.aM(b,b,"(")
 if(i)c=10
 else c=a9<900?12:24
 h=M.bQ(b,T.dP(b,b,C.a1,!0,b,Q.aM(H.a([d,Q.aM(b,A.a4(b,b,new P.p(a2),b,b,b,b,b,b,b,b,c,b,C.x,b,b,!0,b,b,b,b,b,b,b),"Kartu Virtual Layanan Publik Indonesia"),Q.aM(b,b,")")],e),g,"Folks "),C.D,b,b,1,C.K),C.k,h,b,b,b,b,b,b,C.dx,b,b,b)
-g=l?C.p:b
+g=r?C.p:b
 g=M.bQ(b,L.b0("@Bangkit Academy 2021",b,b,A.a4(b,b,C.j,b,b,b,b,b,a4,b,b,i?10:12,b,C.x,b,b,!0,b,b,b,b,b,b,b),b,b),C.k,g,b,b,b,b,b,b,C.dx,b,b,b)
-d=T.ai(b,l?18:36,b)
-c=l?a9:a9*0.4
-f.push(T.cm(T.dR(C.ai,H.a([o,m,T.ai(T.cZ(H.a([h,g,d,new T.fD(new S.aB(0,c,0,1/0),T.cf(H.a([T.cm(M.bQ(b,L.b0('A prototype of single access application for all of the public services in Indonesia. This application will help to reduce plastic uses of physical cards, simplify the complex bureaucracy, and achieve "Satu Data Indonesia" for an efficient and effective identity card (virtual E-KTP).',b,b,A.a4(b,b,new P.p(a6),b,b,b,b,b,a0,b,b,16,b,b,b,b,!0,b,b,b,b,b,b,b),C.el,b),C.k,new P.p(a5),b,b,b,b,b,b,C.iB,b,b,b),1)],n),C.A,C.t,C.dY),b)],n),C.a4,C.bF,C.q),520,j)],n),C.a5),1))
+d=T.ai(b,r?18:36,b)
+c=r?a9:a9*0.4
+f.push(T.cm(T.dR(C.ai,H.a([m,l,T.ai(T.cZ(H.a([h,g,d,new T.fD(new S.aB(0,c,0,1/0),T.cf(H.a([T.cm(M.bQ(b,L.b0('A prototype of single access application for all of the public services in Indonesia. This application will help to reduce plastic uses of physical cards, simplify the complex bureaucracy, and achieve "Satu Data Indonesia" for an efficient and effective identity card (virtual E-KTP).',b,b,A.a4(b,b,new P.p(a6),b,b,b,b,b,a0,b,b,16,b,b,b,b,!0,b,b,b,b,b,b,b),C.el,b),C.k,new P.p(a5),b,b,b,b,b,b,C.iB,b,b,b),1)],a7),C.A,C.t,C.dY),b)],a7),C.a4,C.bF,C.q),520,j)],a7),C.a5),1))
 f=T.cf(f,C.A,C.t,C.dY)
-if(l)p=a9
-if(i)o=10
-else o=a9<900?12:24
-o=A.a4(b,b,new P.p(a1),b,b,b,b,b,a0,b,b,o,b,C.u,b,b,!0,b,b,b,b,b,b,b)
+r=r?a9:n
+if(i)n=10
+else n=a9<900?12:24
+n=A.a4(b,b,new P.p(a1),b,b,b,b,b,a0,b,b,n,b,C.u,b,b,!0,b,b,b,b,b,b,b)
 m=Q.aM(b,b,"(")
 if(i)l=8
 else l=a9<900?10:18
-o=T.dP(b,b,C.a1,!0,b,Q.aM(H.a([m,Q.aM(b,A.a4(b,b,new P.p(a2),b,b,b,b,b,b,b,b,l,b,C.x,b,b,!0,b,b,b,b,b,b,b),"Jasa Raharja Materiil Umum"),Q.aM(b,b,")")],e),o,"Jarum "),C.D,b,b,1,C.K)
-o=F.vO(V.Qx(new T.aW(C.dv,T.cZ(H.a([o,L.b0(a3,b,b,A.a4(b,b,C.j,b,b,b,b,b,a4,b,b,i?8:10,b,C.x,b,b,!0,b,b,b,b,b,b,b),b,b),T.ai(b,16,b),L.b0("A web-app that was made for representative office (kantor wilayah) to make materiil requests to the branch office.",b,b,A.a4(b,b,new P.p(a6),b,b,b,b,b,a0,b,b,16,b,b,b,b,!0,b,b,b,b,b,b,b),b,b)],n),C.a4,C.t,C.q),b),new P.p(a5),C.dw),b,6)
+n=T.dP(b,b,C.a1,!0,b,Q.aM(H.a([m,Q.aM(b,A.a4(b,b,new P.p(a2),b,b,b,b,b,b,b,b,l,b,C.x,b,b,!0,b,b,b,b,b,b,b),"Jasa Raharja Materiil Umum"),Q.aM(b,b,")")],e),n,"Jarum "),C.D,b,b,1,C.K)
+n=F.vO(V.Qx(new T.aW(C.dv,T.cZ(H.a([n,L.b0(a3,b,b,A.a4(b,b,C.j,b,b,b,b,b,a4,b,b,i?8:10,b,C.x,b,b,!0,b,b,b,b,b,b,b),b,b),T.ai(b,16,b),L.b0("A web-app that was made for representative office (kantor wilayah) to make materiil requests to the branch office.",b,b,A.a4(b,b,new P.p(a6),b,b,b,b,b,a0,b,b,16,b,b,b,b,!0,b,b,b,b,b,b,b),b,b)],a7),C.a4,C.t,C.q),b),new P.p(a5),C.dw),b,6)
 if(i)m=10
 else m=a9<900?12:24
 m=A.a4(b,b,new P.p(a1),b,b,b,b,b,a0,b,b,m,b,C.u,b,b,!0,b,b,b,b,b,b,b)
@@ -62708,17 +62714,18 @@ l=Q.aM(b,b,"(")
 if(i)j=8
 else j=a9<900?10:18
 m=T.dP(b,b,C.a1,!0,b,Q.aM(H.a([l,Q.aM(b,A.a4(b,b,new P.p(a2),b,b,b,b,b,b,b,b,j,b,C.x,b,b,!0,b,b,b,b,b,b,b),"Pakai Pinjam"),Q.aM(b,b,")")],e),m,"Papi "),C.D,b,b,1,C.K)
-m=F.vO(V.Qx(new T.aW(C.dv,T.cZ(H.a([m,L.b0(a3,b,b,A.a4(b,b,C.j,b,b,b,b,b,a4,b,b,i?8:10,b,C.x,b,b,!0,b,b,b,b,b,b,b),b,b),T.ai(b,16,b),L.b0("An application that was made to record all of office inventory leasing activities from employees.",b,b,A.a4(b,b,new P.p(a6),b,b,b,b,b,a0,b,b,16,b,b,b,b,!0,b,b,b,b,b,b,b),b,b)],n),C.a4,C.t,C.q),b),new P.p(a5),C.dw),b,6)
+m=F.vO(V.Qx(new T.aW(C.dv,T.cZ(H.a([m,L.b0(a3,b,b,A.a4(b,b,C.j,b,b,b,b,b,a4,b,b,i?8:10,b,C.x,b,b,!0,b,b,b,b,b,b,b),b,b),T.ai(b,16,b),L.b0("An application that was made to record all of office inventory leasing activities from employees.",b,b,A.a4(b,b,new P.p(a6),b,b,b,b,b,a0,b,b,16,b,b,b,b,!0,b,b,b,b,b,b,b),b,b)],a7),C.a4,C.t,C.q),b),new P.p(a5),C.dw),b,6)
 if(i)l=10
 else l=a9<900?12:24
 l=A.a4(b,b,new P.p(a1),b,b,b,b,b,a0,b,b,l,b,C.u,b,b,!0,b,b,b,b,b,b,b)
 l=T.dP(b,b,C.a1,!0,b,Q.aM(H.a([],e),l,"Mata Dewa "),C.D,b,b,1,C.K)
-l=F.vO(V.Qx(new T.aW(C.dv,T.cZ(H.a([l,L.b0(a3,b,b,A.a4(b,b,C.j,b,b,b,b,b,a4,b,b,i?8:10,b,C.x,b,b,!0,b,b,b,b,b,b,b),b,b),T.ai(b,16,b),L.b0("A web-app that was made to monitor monthly growth of the budgets and expenses issued by the office.",b,b,A.a4(b,b,new P.p(a6),b,b,b,b,b,a0,b,b,16,b,b,b,b,!0,b,b,b,b,b,b,b),b,b)],n),C.a4,C.t,C.q),b),new P.p(a5),C.dw),b,6)
+l=F.vO(V.Qx(new T.aW(C.dv,T.cZ(H.a([l,L.b0(a3,b,b,A.a4(b,b,C.j,b,b,b,b,b,a4,b,b,i?8:10,b,C.x,b,b,!0,b,b,b,b,b,b,b),b,b),T.ai(b,16,b),L.b0("A web-app that was made to monitor monthly growth of the budgets and expenses issued by the office.",b,b,A.a4(b,b,new P.p(a6),b,b,b,b,b,a0,b,b,16,b,b,b,b,!0,b,b,b,b,b,b,b),b,b)],a7),C.a4,C.t,C.q),b),new P.p(a5),C.dw),b,6)
 if(i)j=10
 else j=a9<900?12:24
 j=A.a4(b,b,new P.p(a1),b,b,b,b,b,a0,b,b,j,b,C.u,b,b,!0,b,b,b,b,b,b,b)
 j=T.dP(b,b,C.a1,!0,b,Q.aM(H.a([],e),j,"IDP "),C.D,b,b,1,C.K)
-return M.bQ(b,T.dR(C.ai,H.a([a7,E.a07(new T.aW(new V.aH(r,s,r,s),T.cZ(H.a([new X.n8("03.","Highlight Projects",b),q,k,f,new X.n8("04.","Noteworthy Projects",b),T.ai(F.ahq(H.a([o,m,l,F.vO(V.Qx(new T.aW(C.dv,T.cZ(H.a([j,L.b0(a3,b,b,A.a4(b,b,C.j,b,b,b,b,b,a4,b,b,i?8:10,b,C.x,b,b,!0,b,b,b,b,b,b,b),b,b),T.ai(b,16,b),L.b0("A web-app that was made to make an Individual Development Plan recommendation based on annual employee report performance",b,b,A.a4(b,b,new P.p(a6),b,b,b,b,b,a0,b,b,16,b,b,b,b,!0,b,b,b,b,b,b,b),b,b)],n),C.a4,C.t,C.q),b),new P.p(a5),C.dw),b,6)],t.SE)),b,p)],n),C.a4,C.t,C.q),b),b,C.al,b,C.m)],n),C.a5),C.k,new P.p(4278324251),b,b,b,b,b,b,b,b,b,b)}}
+s.push(E.a07(new T.aW(new V.aH(p,q,p,q),T.cZ(H.a([new X.n8("03.","Highlight Projects",b),o,k,f,new X.n8("04.","Noteworthy Projects",b),T.ai(F.ahq(H.a([n,m,l,F.vO(V.Qx(new T.aW(C.dv,T.cZ(H.a([j,L.b0(a3,b,b,A.a4(b,b,C.j,b,b,b,b,b,a4,b,b,i?8:10,b,C.x,b,b,!0,b,b,b,b,b,b,b),b,b),T.ai(b,16,b),L.b0("A web-app that was made to make an Individual Development Plan recommendation based on annual employee report performance",b,b,A.a4(b,b,new P.p(a6),b,b,b,b,b,a0,b,b,16,b,b,b,b,!0,b,b,b,b,b,b,b),b,b)],a7),C.a4,C.t,C.q),b),new P.p(a5),C.dw),b,6)],t.SE)),b,r)],a7),C.a4,C.t,C.q),b),b,C.al,b,C.m))
+return M.bQ(b,T.dR(C.ai,s,C.a5),C.k,new P.p(4278324251),b,b,b,b,b,b,b,b,b,b)}}
 F.nj.prototype={
 h:function(a){return this.b}}
 F.FO.prototype={
