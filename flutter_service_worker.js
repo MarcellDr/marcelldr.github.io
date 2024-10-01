@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "934e1d64acf947a2fd9334f10595ed58",
-"assets/AssetManifest.bin.json": "2a181571cd03f6a431e46520399e92f4",
-"assets/AssetManifest.json": "5c57464b1c9d5947a91ff3226bd07bad",
+const RESOURCES = {"assets/AssetManifest.bin": "fd873d6849c5c2aa8e2cd3275f46f24f",
+"assets/AssetManifest.bin.json": "7ebe41df94df5b9462662d33af1019d7",
+"assets/AssetManifest.json": "1dbabaa8556fea71df5f1ca13d4dec83",
 "assets/assets/animations/astronout-background.json": "f3f3685bccd001f6d76d2f84bddc7da0",
 "assets/assets/animations/astronout-person.json": "1a3931450ee9a8dc07e84e536dd6aeef",
 "assets/assets/animations/astronout-reading.json": "b0d8d98afce23ea0291990ac0f2ca5aa",
@@ -23,6 +23,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "934e1d64acf947a2fd9334f10595ed58
 "assets/assets/fonts/strenuous/Strenuous.otf": "794d9ce07831b05a744e7099d61e80eb",
 "assets/assets/images/about-background-deco.png": "a0933896f88e7799b0319eed786ea3d2",
 "assets/assets/images/bg_sec04.png": "ce6645c9816ef067783d1c0bc91dc20b",
+"assets/assets/images/btn_esc.png": "267df6f6f0e82272323c0d6f95fec221",
 "assets/assets/images/circle-deco.svg": "3c4de053071401789b9edd80ddf5767e",
 "assets/assets/images/clouds1.png": "7209f1c5118077356b5c3326e12c8c1d",
 "assets/assets/images/clouds2.png": "75fee3b1d1a7407a4a341783f21a5cc1",
@@ -38,6 +39,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "934e1d64acf947a2fd9334f10595ed58
 "assets/assets/images/line-sizzle-background.svg": "4506bacd158d4d313a9a47bdd161731a",
 "assets/assets/images/line-vertical-deco.png": "ffb90e2bec497a3e27642fd2c2778bbc",
 "assets/assets/images/line-wave-background.svg": "db2db2f18587a4ab59dbf7b0a6fe118a",
+"assets/assets/images/linkedin.png": "9b10764ab413344de853927b3eb405f6",
 "assets/assets/images/logo-mekari-flex.webp": "da65f1c8610d77a66d7679d3e0f7175e",
 "assets/assets/images/magic-pattern.png": "dc256ae67953bde20923e58ccf21e94a",
 "assets/assets/images/mask_bottom.png": "ebf74fc44c5cfc30eefcd103a131808e",
@@ -74,16 +76,16 @@ const RESOURCES = {"assets/AssetManifest.bin": "934e1d64acf947a2fd9334f10595ed58
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "89f6a129fe93cb09016de010c86c0682",
+"flutter_bootstrap.js": "25e74a1f4d1d21a93695ac2885f44484",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "931cac629e8f56ce3f4548b0d79e83a8",
 "/": "931cac629e8f56ce3f4548b0d79e83a8",
-"main.dart.js": "89b151792710593ed73945e137100b28",
+"main.dart.js": "a9d0b49f062fc51c20a86ac3037f77e7",
 "main.dart.mjs": "042f8b5cbe330650253f88b775ae6fce",
-"main.dart.wasm": "806edfaf49b71b2b2e532cecf8d6ddec",
+"main.dart.wasm": "c6a85c5eacb17826f936e511da924b54",
 "manifest.json": "88771d48d988ad2a9537fa710c1dc0bb",
 "version.json": "12a92ef79835b40a6093bcc932b54998"};
 // The application shell files that are downloaded before a service worker can
